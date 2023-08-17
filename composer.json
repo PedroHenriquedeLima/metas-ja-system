@@ -1,0 +1,8 @@
+{
+    "name": "app/goals-manager",
+    "autoload": {
+        "psr-4": {
+            "App\\" : "app/"
+        }
+    }
+}
